@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    background-color: #f0f0f0; /* Cor de fundo de toda a página, se necessário */
+    color: #006400; /* Cor do texto (verde escuro) */
+}
+
+h1 {
+    color: #006400; /* Cor do título (verde escuro) */
+}
+
+button {
+    background-color: #006400; /* Cor de fundo do botão (verde) */
+    color: #fff; /* Cor do texto do botão (branco) */
+    padding: 10px 20px; /* Espaçamento interno do botão */
+    border: none; /* Remova a borda do botão, se desejado */
+    cursor: pointer; /* Altere o cursor ao passar o mouse sobre o botão */
+    border-radius: 5px; /* Adicione cantos arredondados ao botão, se desejado */
+    font-size: 14px;
+    font-weight: bold; /* Deixa o texto do botão em negrito */
+}
+
+a {
+    text-decoration: none; /* Remova o sublinhado dos links */
+}
